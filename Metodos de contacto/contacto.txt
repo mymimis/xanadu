@@ -1,0 +1,20 @@
+Información General
+teescuchamos@intuxanadu.com
+(+34) 91 103 60 01
+
+Área de prensa
+leticiagomez@europapress.es
+silviamullor@europapress.es
+(+34) 91 359 26 00
+
+Gerencia
+Contacto General
+recepcion@intuxanadu.com
+(+34) 91 103 60 00
+
+Publicidad, stands promocionales y kioscos
+maria.soria@cbre.com
+(+34) 91 103 60 00
+
+
+(este apartado lo hacemos con iconos y aquí podemos meter el formulario de contacto. [nombre, apellidos, numero, mail, un textarea para hacer la consulta, y el apartado de acepto la politica])
